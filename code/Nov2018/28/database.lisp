@@ -1,3 +1,5 @@
+(defun make-cd (title artist rating ripped) (list :title title :artist artist :rating rating :ripped ripped))
+
 (make-cd ("Watch The Throne" "Jay-Z and Kanye West" 4 T))
 
 (make-cd "Watch The Throne" "Jay-Z and Kanye West" 4 T)
