@@ -7,7 +7,7 @@ To find out *why* I'm doing this, check out the first section of the [first post
 | Post Number |     Date     |                            Topics                            |
 | :---------: | :----------: | :----------------------------------------------------------: |
 |      0      | Nov 27, 2018 | [Why I'm doing this, setting up environment, basic syntax](posts/Nov2018/27.md) |
-|             |              |                                                              |
+|      1      | Nov 28, 2018 | [Learned more about lists and functions, building a simple database app](posts/Nov2018/28.md) |
 |             |              |                                                              |
 |             |              |                                                              |
 |             |              |                                                              |
