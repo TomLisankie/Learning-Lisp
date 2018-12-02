@@ -10,7 +10,7 @@ To find out *why* I'm doing this, check out the first section of the [first post
 |      1      | Nov 28, 2018 | [Learned more about lists and functions, building a simple database app](posts/Nov2018/28.md) |
 |      2      | Nov 29, 2018 | [Some Lisp history, syntax, and semantics](posts/Nov2018/29.md) |
 |      3      | Nov 30, 2018 |        [Wrote a tip calculator](posts/Nov2018/30.md)         |
-|             |              |                                                              |
+|      4      | Dec 1, 2018  | [Edited tip calc to use local variables and briefly touched on other things I learned](posts/Dec2018/1.md) |
 |             |              |                                                              |
 |             |              |                                                              |
 |             |              |                                                              |
