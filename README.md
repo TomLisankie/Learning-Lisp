@@ -11,7 +11,7 @@ To find out *why* I'm doing this, check out the first section of the [first post
 |      2      | Nov 29, 2018 | [Some Lisp history, syntax, and semantics](posts/Nov2018/29.md) |
 |      3      | Nov 30, 2018 |        [Wrote a tip calculator](posts/Nov2018/30.md)         |
 |      4      | Dec 1, 2018  | [Edited tip calc to use local variables and briefly touched on other things I learned](posts/Dec2018/1.md) |
-|             |              |                                                              |
+|      5      | Dec 2, 2018  | [Finished Chapter 4 of PCL, talked about editor choice, and reflected on the concept of code as data.](posts/Dec2018/2.md) |
 |             |              |                                                              |
 |             |              |                                                              |
 |             |              |                                                              |
