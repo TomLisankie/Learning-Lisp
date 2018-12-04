@@ -13,7 +13,7 @@ To find out *why* I'm doing this, check out the first section of the [first post
 |      4      | Dec 1, 2018  | [Edited tip calc to use local variables and briefly touched on other things I learned](posts/Dec2018/1.md) |
 |      5      | Dec 2, 2018  | [Finished Chapter 4 of PCL, talked about editor choice, and reflected on the concept of code as data.](posts/Dec2018/2.md) |
 |      6      | Dec 3, 2018  | [Got a better grasp on when and why you'd use macros and learned more about Lisp functions](posts/Dec2018/3.md) |
-|             |              |                                                              |
+|      7      | Dec 4, 2018  | F[inished Chapter 5 of PCL. Got more in-depth with functions](posts/Dec2018/4.md) |
 |             |              |                                                              |
 |             |              |                                                              |
 |             |              |                                                              |
