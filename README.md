@@ -15,7 +15,7 @@ To find out *why* I'm doing this, check out the first section of the [first post
 |      6      | Dec 3, 2018  | [Got a better grasp on when and why you'd use macros and learned more about Lisp functions](posts/Dec2018/3.md) |
 |      7      | Dec 4, 2018  | [Finished Chapter 5 of PCL. Got more in-depth with functions](posts/Dec2018/4.md) |
 |      8      | Dec 5, 2018  | [Learned more about variables and closures](posts/Dec2018/5.md) |
-|             |              |                                                              |
+|      9      | Dec 6, 2018  | [Updated my Tip Calculator program and finished the chapter on variables](posts/Dec2018/6.md) |
 |             |              |                                                              |
 |             |              |                                                              |
 |             |              |                                                              |
