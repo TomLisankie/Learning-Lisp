@@ -16,7 +16,7 @@ To find out *why* I'm doing this, check out the first section of the [first post
 |      7      | Dec 4, 2018  | [Finished Chapter 5 of PCL. Got more in-depth with functions](posts/Dec2018/4.md) |
 |      8      | Dec 5, 2018  | [Learned more about variables and closures](posts/Dec2018/5.md) |
 |      9      | Dec 6, 2018  | [Updated my Tip Calculator program and finished the chapter on variables](posts/Dec2018/6.md) |
-|             |              |                                                              |
+|     10      | Dec 7, 2018  | [Day 1 (part a) of Advent of Code 2018. Code full of bad practices, but it'll have to suffice for today.](posts/Dec2018/7.md) |
 |             |              |                                                              |
 |             |              |                                                              |
 |             |              |                                                              |
