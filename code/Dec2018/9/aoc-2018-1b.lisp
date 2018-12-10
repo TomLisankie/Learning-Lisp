@@ -11,11 +11,10 @@
 	(seen-sums (make-hash-table)))
     (dolist (an-int-string list-from-file)
       (setf sum (+ sum (parse-integer an-int-string)))
-      (if (gethash an-int-string seen-sums)
-	  (incf (gethash an-int-string seen-sums) 1)
-	  (setf (gethash an-int-string seen-sums) 1))
-      (if (> (gethash an-int-string seen-sums) 1)
-        (format t (write-to-string sum))))))
+      (incf (gethash (write-to-string sum) seen-sums 0))
+      ;(format t "~a~%" (gethash (write-to-string sum) seen-sums))
+      (if (> (gethash (write-to-string sum) seen-sums) 1)
+	  (write-to-string sum)))))
       
       
 

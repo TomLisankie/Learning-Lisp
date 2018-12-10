@@ -18,7 +18,7 @@ To find out *why* I'm doing this, check out the first section of the [first post
 |      9      | Dec 6, 2018  | [Updated my Tip Calculator program and finished the chapter on variables](posts/Dec2018/6.md) |
 |     10      | Dec 7, 2018  | [Day 1 (part a) of Advent of Code 2018. Code full of bad practices, but it'll have to suffice for today.](posts/Dec2018/7.md) |
 |     11      | Dec 8, 2018  | [Made day 1 (part a) of Advent of Code nicer and mostly did part b although it's not fully functional yet.](posts/Dec2018/8.md) |
-|             |              |                                                              |
+|     12      | Dec 9, 2018  | [Tried to figure out what's wrong with my AoC puzzle 1(b) code. Made some progress but now I'm getting a new error.](posts/Dec2018/9.md) |
 |             |              |                                                              |
 |             |              |                                                              |
 |             |              |                                                              |
