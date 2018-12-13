@@ -21,7 +21,7 @@ To find out *why* I'm doing this, check out the first section of the [first post
 |     12      | Dec 9, 2018  | [Tried to figure out what's wrong with my AoC puzzle 1(b) code. Made some progress but now I'm getting a new error.](posts/Dec2018/9.md) |
 |     13      | Dec 10, 2018 | [Worked on 1b of AoC and began 2a. Still doesn't work.](posts/Dec2018/10.md) |
 |     14      | Dec 11, 2018 | [Didn't code today, instead read about how many of the common control-constructs are, themselves, macros written in CL](posts/Dec2018/11.md) |
-|             |              |                                                              |
+|     15      | Dec 12, 2018 |  [Wrote a simple journalling program.](posts/Dec2018/12.md)  |
 |             |              |                                                              |
 |             |              |                                                              |
 |             |              |                                                              |
