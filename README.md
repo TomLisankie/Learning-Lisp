@@ -22,8 +22,8 @@ To find out *why* I'm doing this, check out the first section of the [first post
 |     13      | Dec 10, 2018 | [Worked on 1b of AoC and began 2a. Still doesn't work.](posts/Dec2018/10.md) |
 |     14      | Dec 11, 2018 | [Didn't code today, instead read about how many of the common control-constructs are, themselves, macros written in CL](posts/Dec2018/11.md) |
 |     15      | Dec 12, 2018 |  [Wrote a simple journalling program.](posts/Dec2018/12.md)  |
-|             |              |                                                              |
-|             |              |                                                              |
+|     16      | Dec 13, 2018 |                     N/A: I didn't do it                      |
+|     17      | Dec 14, 2018 | [Attempted to modify my journal program to save the path to the journal entry so the user doesn't have to repeatedly enter it. It half-worked.](posts/Dec2018/14.md) |
 |             |              |                                                              |
 |             |              |                                                              |
 |             |              |                                                              |
