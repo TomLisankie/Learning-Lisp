@@ -11,7 +11,7 @@
     (with-standard-io-syntax
       (print entry out))))
 
-(defun make-path-text-file ()
+(defun make-path-text-file (filepath)
   (with-open-file (out "journal-path.txt"
 		       :direction :output
 		       :if-exists :overwrite
@@ -26,9 +26,8 @@
   "Allows user to enter save location for journal, write their entry, and then have it save to a file."
   (defvar filepath "")
   (if (probe-file "journal-path.txt")
-      (setf filepath (with-open-file (in "journal-path.txt")
-	(with-standard-io-syntax (read-line in))))
-      (make-path-text-file))
+      (setf filepath (uiop:read-file-string "./journal-path.txt"))
+      (make-path-text-file filepath))
   (save-entry
    filepath
    (prompt-read "Write your journal entry here")))

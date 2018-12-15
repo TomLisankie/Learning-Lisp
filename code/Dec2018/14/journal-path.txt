@@ -1,2 +1,1 @@
-
 "~/Desktop/lisp-journal-entries/" 
