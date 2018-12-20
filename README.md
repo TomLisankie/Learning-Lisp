@@ -25,10 +25,10 @@ To find out *why* I'm doing this, check out the first section of the [first post
 |     16      | Dec 13, 2018 |                     N/A: I didn't do it                      |
 |     17      | Dec 14, 2018 | [Attempted to modify my journal program to save the path to the journal entry so the user doesn't have to repeatedly enter it. It half-worked.](posts/Dec2018/14.md) |
 |     18      | Dec 15, 2018 | [Learned more about how lists work in CL. They're basically just linked lists of "cons cells."](posts/Dec2018/15.md) |
-|             |              |                                                              |
-|             |              |                                                              |
-|             |              |                                                              |
-|             |              |                                                              |
+|     19      | Dec 16, 2018 |                     N/A: I didn't do it                      |
+|     20      | Dec 17, 2018 |                     N/A: I didn't do it                      |
+|     21      | Dec 18, 2018 |                     N/A: I didn't do it                      |
+|     22      | Dec 19, 2018 | [Learned about how trees are structured in CL. Cons cells all the way down.](posts/Dec2018/19.md) |
 |             |              |                                                              |
 |             |              |                                                              |
 |             |              |                                                              |
