@@ -29,7 +29,7 @@ To find out *why* I'm doing this, check out the first section of the [first post
 |     20      | Dec 17, 2018 |                     N/A: I didn't do it                      |
 |     21      | Dec 18, 2018 |                     N/A: I didn't do it                      |
 |     22      | Dec 19, 2018 | [Learned about how trees are structured in CL. Cons cells all the way down.](posts/Dec2018/19.md) |
-|             |              |                                                              |
+|     23      | Dec 20, 2018 | [Learned about sets in CL and some operations you can perform on them.](posts/Dec2018/20.md) |
 |             |              |                                                              |
 |             |              |                                                              |
 |             |              |                                                              |
